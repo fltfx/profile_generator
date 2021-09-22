@@ -1,3 +1,5 @@
+//this is super helpful: https://stackoverflow.com/questions/24464404/how-to-readline-infinitely-in-node-js
+
 const readline = require('readline');
 
 const rl = readline.createInterface({
